@@ -19,3 +19,8 @@ Les librairies utilisées sont standard et vous devriez déjà les avoir dans vo
 pip install -r requirements.txt
 ```
 
+# Ressources intéressantes 
+
+- Cours d'économétrie de science po [lien](https://github.com/ScPoEcon/ScPoEconometrics-Slides?tab=readme-ov-file#scpoeconometrics-slide-host) couvre ce qu'on a vu, en mettant moins l'accent sur les sous-jacents mathématiques mais plus sur d'autres aspects de la régression linéaire (intervalles de confiance, bootsrap ...)
+
+- Element of statistical learning [lien](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf) : la bible du ML
